@@ -1,0 +1,219 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* LongTapPopupMenuAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1105}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{842, 1831}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* LongTapPopupMenu */ = {
+		activeExec = 0;
+		executables = (
+			E9D32DC113A4C4A30042EC88 /* LongTapPopupMenu */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* LongTapPopupMenuViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1031, 659}}";
+			sepNavSelRange = "{259, 32}";
+			sepNavVisRange = "{0, 299}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* LongTapPopupMenuViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1031, 962}}";
+			sepNavSelRange = "{1024, 0}";
+			sepNavVisRange = "{480, 1226}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E9D32DC113A4C4A30042EC88 /* LongTapPopupMenu */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* LongTapPopupMenu */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* LongTapPopupMenu */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = E9D32DD113A4C4A90042EC88 /* Code sense */;
+		executables = (
+			E9D32DC113A4C4A30042EC88 /* LongTapPopupMenu */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					853,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330547477;
+			PBXWorkspaceStateSaveDate = 330547477;
+		};
+		perUserProjectItems = {
+			E915D15713B3C487001A1DAB /* PBXTextBookmark */ = E915D15713B3C487001A1DAB /* PBXTextBookmark */;
+			E915D15813B3C487001A1DAB /* PBXTextBookmark */ = E915D15813B3C487001A1DAB /* PBXTextBookmark */;
+			E915D15913B3C487001A1DAB /* PBXTextBookmark */ = E915D15913B3C487001A1DAB /* PBXTextBookmark */;
+			E9D32E2613A4D46D0042EC88 /* PBXTextBookmark */ = E9D32E2613A4D46D0042EC88 /* PBXTextBookmark */;
+			E9D32EDF13A545CB0042EC88 /* PBXTextBookmark */ = E9D32EDF13A545CB0042EC88 /* PBXTextBookmark */;
+			E9D3304513A631F80042EC88 /* PBXTextBookmark */ = E9D3304513A631F80042EC88 /* PBXTextBookmark */;
+			E9D3308113A637700042EC88 /* PBXTextBookmark */ = E9D3308113A637700042EC88 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E9D32DD013A4C4A90042EC88 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E915D15713B3C487001A1DAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E9D32DD313A4C5350042EC88 /* BFLongTapPopupMenu.h */;
+		name = "BFLongTapPopupMenu.h: 27";
+		rLen = 0;
+		rLoc = 775;
+		rType = 0;
+		vrLen = 1361;
+		vrLoc = 0;
+	};
+	E915D15813B3C487001A1DAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E9D32DD413A4C5350042EC88 /* BFLongTapPopupMenu.m */;
+		name = "BFLongTapPopupMenu.m: 422";
+		rLen = 0;
+		rLoc = 13735;
+		rType = 0;
+		vrLen = 1769;
+		vrLoc = 11598;
+	};
+	E915D15913B3C487001A1DAB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LongTapPopupMenuViewController.m */;
+		name = "LongTapPopupMenuViewController.m: 42";
+		rLen = 0;
+		rLoc = 1024;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 480;
+	};
+	E9D32DC113A4C4A30042EC88 /* LongTapPopupMenu */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LongTapPopupMenu;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	E9D32DD013A4C4A90042EC88 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E9D32DD113A4C4A90042EC88 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E9D32DD313A4C5350042EC88 /* BFLongTapPopupMenu.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1031, 682}}";
+			sepNavSelRange = "{775, 0}";
+			sepNavVisRange = "{0, 1361}";
+		};
+	};
+	E9D32DD413A4C5350042EC88 /* BFLongTapPopupMenu.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1031, 5850}}";
+			sepNavSelRange = "{13735, 0}";
+			sepNavVisRange = "{11598, 1769}";
+		};
+	};
+	E9D32E2613A4D46D0042EC88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E9D32E2713A4D46D0042EC88 /* CALayer.h */;
+		name = "CALayer.h: 719";
+		rLen = 64;
+		rLoc = 27215;
+		rType = 0;
+		vrLen = 1523;
+		vrLoc = 26385;
+	};
+	E9D32E2713A4D46D0042EC88 /* CALayer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CALayer.h;
+		path = /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CALayer.h;
+		sourceTree = "<absolute>";
+	};
+	E9D32EDF13A545CB0042EC88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LongTapPopupMenuAppDelegate.m */;
+		name = "LongTapPopupMenuAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1831;
+		vrLoc = 842;
+	};
+	E9D3304513A631F80042EC88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LongTapPopupMenuViewController.h */;
+		name = "LongTapPopupMenuViewController.h: 15";
+		rLen = 32;
+		rLoc = 259;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 0;
+	};
+	E9D3308113A637700042EC88 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LongTapPopupMenuViewController.m */;
+		name = "LongTapPopupMenuViewController.m: 40";
+		rLen = 0;
+		rLoc = 910;
+		rType = 0;
+		vrLen = 1303;
+		vrLoc = 397;
+	};
+}

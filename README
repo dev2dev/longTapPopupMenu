@@ -1,0 +1,7 @@
+This is menu that looks like popup UI element that appears when you
+do long tap on the iOS keyboard globe button to bring up language 
+selector. You can attach such menu to any UI element, provide it
+some info (item titles, index of selected title) and it will notify
+you when user taps on some item via delegate protocol.
+Everything is drawn programmatically, it just works, etc. 
+Licensed under MIT.
